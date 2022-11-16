@@ -1,4 +1,11 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs_larger.svg"><br>
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg"><br>
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio.svg">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg">
+</p>
 
 <!--
 **Lenzork/Lenzork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
